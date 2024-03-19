@@ -41,7 +41,7 @@ All contributors to the VaultGuard project must adhere to the Contributor Covena
 
 # License
 
-VaultGuard is released under the MIT License. This license allows you to use, modify, and distribute the project for both personal and commercial purposes. Please review the license before contributing to the project.
+VaultGuard is released under the [MIT License](LICENSE). This license allows you to use, modify, and distribute the project for both personal and commercial purposes. Please review the license before contributing to the project.
 
 # Contact
 If you have any questions or concerns, please reach out to us at contact@vaultguard.io. We welcome your feedback and look forward to building a secure and efficient decentralized networking platform together.
