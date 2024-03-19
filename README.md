@@ -37,7 +37,7 @@ We welcome contributions from the community to help make VaultGuard even better.
 
 # Code Of Conduct 
 
-All contributors to the VaultGuard project must adhere to the Contributor Covenant Code of Conduct. This code of conduct outlines our expectations for all those who participate in the project, as well as the consequences for unacceptable behavior.
+All contributors to the VaultGuard project must adhere to the Contributor Covenant [Code of Conduct](CODE_OF_CONDUCT.md). This code of conduct outlines our expectations for all those who participate in the project, as well as the consequences for unacceptable behavior.
 
 # License
 
