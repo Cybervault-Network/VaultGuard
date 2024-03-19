@@ -6,11 +6,11 @@ VaultGuard is a decentralized networking platform powered by AGI (Artificial Gen
 
 # Table of Contents
 
-- Introduction
-- Project Goals
-- Contributing
-- Code of Conduct
-- License
+- [Introduction](#introduction) 
+- [Project Goals](#project-goals) 
+- [Contributing](#contributing) 
+- [Code of Conduct](#code-of-conduct) 
+- [License](#license) 
 
 # Introduction
 
